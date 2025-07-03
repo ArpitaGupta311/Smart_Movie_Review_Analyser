@@ -8,7 +8,7 @@ Part A: Text Classification & Word Embeddings
 
        1. Dataset and Classification:
        
-          >I used the IMDB review dataset - 
+          >I used the IMDB review dataset - https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews/data?select=IMDB+Dataset.csv
           >Build a text classifier to predict if reviews are positive or negative
           >Used a simple approach: TF-IDF + Logistic Regression
           
